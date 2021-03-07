@@ -5,21 +5,16 @@
 </p> -->
 
 <p align="center">
-  The simplest icon component for React Native.
+  A maintained fork of the simplest icon component for React Native (react-native-animated-icons S/O @garretmac for laying the groundwork).
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="http://standardjs.com/"><img alt="JavaScript Style Guide" src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-animated-icons"><img alt="npm version" src="http://img.shields.io/npm/v/react-native-animated-icons.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/react-native-animated-icons"><img alt="npm version" src="http://img.shields.io/npm/dm/react-native-animated-icons.svg?style=flat-square"></a>
   <a href="https://github.com/garrettmac/react-native-animated-icons/pulls?q=is%3Apr+is%3Aclosed"><img alt="PR Stats" src="https://img.shields.io/issuestats/i/github/garrettmac/react-native-animated-icons.svg?style=flat-square"></a>
   <a href="https://gitter.im/garrettmac/react-native-animated-icons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img alt="Join the chat" src="https://badges.gitter.im/garrettmac/react-native-animated-icons.svg"></a>
-</p>
-
-
-
-
-
+</p> -->
 
 (I Need to do some clean up on this readme but it works, give it a try!)
 
@@ -30,7 +25,7 @@ A light wrapper around `react-native-vector-icons`
 
  Import in to  your project
 ```jsx
-import Icon from "react-native-animated-icons"
+import Icon from "react-native-animicons"
 ```
 ### Basic Usage
 this will not trigger animation. for that keep reading.

@@ -1,22 +1,25 @@
 {
-  "name": "react-native-animated-icons",
-  "version": "1.0.5",
-  "description": "All your vector icon needs in one place",
+  "name": "react-native-animicons",
+  "version": "1.0.0",
+  "description": "Forked from Garret Mac's react-native-animated-icons due to no longer being maintained",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garrettmac/react-native-animated-icons.git"
+    "url": "git+https://github.com/SidCodesStuff/react-native-animicons.git"
   },
-  "author": "Garrett Mac <garrett@vyga.io> (http://vyga.io)",
-  "license": "MIT",
+  "keywords": [
+    "react-native",
+    "icons",
+    "animated-icons",
+    "animated"
+  ],
+  "author": "Sidney Jacques",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/garrettmac/react-native-animated-icons/issues"
+    "url": "https://github.com/SidCodesStuff/react-native-animicons/issues"
   },
-  "homepage": "https://github.com/garrettmac/react-native-animated-icons#readme",
-  "dependencies": {
-    "react-native-vector-icons": "^4.3.0"
-  }
+  "homepage": "https://github.com/SidCodesStuff/react-native-animicons#readme"
 }
