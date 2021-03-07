@@ -1,6 +1,6 @@
 {
   "name": "react-native-animicons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forked from Garret Mac's react-native-animated-icons due to no longer being maintained",
   "main": "index.js",
   "scripts": {
