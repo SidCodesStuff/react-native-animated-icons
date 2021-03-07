@@ -156,8 +156,9 @@ Icon.defaultProps = {
 	iconFamily: "MaterialCommunityIcons",
 	animation: {
 		toValue: 1,
-		duration: 500
+		duration: 500,
+		useNativeDriver: true,
 	},
 	scaleInputRange:[0, 0.6, 1],
-scaleOutputRange:[1, 1.5, 1],
+	scaleOutputRange:[1, 1.5, 1],
 }
